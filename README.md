@@ -1,2 +1,3 @@
 # btech-cs-ai
 My first GitHub repository for learning and practicing programming.
+Author- Amit Yadav
